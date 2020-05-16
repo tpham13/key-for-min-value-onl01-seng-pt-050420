@@ -5,3 +5,4 @@
 
 #end
 
+def smallest_has_value 
