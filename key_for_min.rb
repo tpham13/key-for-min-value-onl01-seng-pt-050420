@@ -5,4 +5,7 @@
 
 #end
 
-def smallest_has_value 
+fruit_inv = {apples: 20, kiwis: 55, tomatoes: 13}
+
+def smallest_has_value(array) 
+  num = v
