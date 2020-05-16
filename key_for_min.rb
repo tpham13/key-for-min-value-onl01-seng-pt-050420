@@ -7,5 +7,5 @@
 
 fruit_inv = {apples: 20, kiwis: 55, tomatoes: 13}
 
-def smallest_has_value(array) 
+def key_for_min_value(hash) 
   num = v
